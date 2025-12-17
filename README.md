@@ -7,6 +7,9 @@ I'm currently involved in student clubs at my university such as the Hackathon C
 In my free time, I love to play tennis, eat good food, and spend time with friends or family.
 
 # Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind)
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma)
+![Tools](https://skillicons.dev/icons?i=git,github)
 
 
