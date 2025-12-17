@@ -1,4 +1,4 @@
-## Hi, I'm Stanley
+## Hi, I'm Stanley Eng 
 
 # About me
 I'm a third-year Computer Science major at Oregon State University passionate about building full-stack applications and software engineering. 
