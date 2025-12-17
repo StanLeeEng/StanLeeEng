@@ -22,21 +22,21 @@ In my free time, I love to play tennis, eat good food, and spend time with frien
 
 # Projects
 
-## [AI Voice Memory Portfolio](https://github.com/yourusername/ai-voice-memory)
+## [AI Voice Memory Portfolio](https://github.com/StanLeeEng/quackhacks-remnants)
 *ElevenLabs | TypeScript | Next.js | PostgreSQL | TailwindCSS | Neon | Prisma*
 
 - Engineered a full-stack web application enabling families to create "voice memories" for loved ones by uploading short audio samples and generating personalized voice recordings using the ElevenLabs Voice Cloning API
 - Developed custom message creation and playback, allowing users to send audio messages securely to their families
 - **Awarded Best Use of ElevenLabs API** in MLH Track at University of Oregon hackathon among 160+ participants
 
-## [Hackathon Submission Platform](https://github.com/yourusername/hackathon-platform)
+## [Hackathon Submission Platform](https://github.com/OregonStateHackathonClub/website)
 *TypeScript | Next.js | PostgreSQL | TailwindCSS | Prisma*
 
 - Architected and deployed a full-stack web platform serving an anticipated 300+ users with real-time submission tracking, team management, and judging capabilities
 - Collaborated with 5+ engineers to build role-based dashboards, implementing secure authentication and authorization for organizers, judges, and participants
 - Directly improved operational efficiency for event organizers
 
-## [Speech-to-Text AI Note Converter](https://github.com/yourusername/speech-to-text-notes)
+## [Speech-to-Text AI Note Converter](https://github.com/BGill8/beavernotes-ai-notetaking)
 *HTML/CSS | JavaScript | Express.js | React.js | MongoDB*
 
 - Engineered a full-stack application allowing users to convert speech into organized notes, integrating Web Speech API for real-time audio transcription
