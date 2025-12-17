@@ -34,7 +34,7 @@ In my free time, I love to play tennis, eat good food, and spend time with frien
 
 - Architected and deployed a full-stack web platform serving an anticipated 300+ users with real-time submission tracking, team management, and judging capabilities
 - Collaborated with 5+ engineers to build role-based dashboards, implementing secure authentication and authorization for organizers, judges, and participants
-- Directly improved operational efficiency for event organizers
+- Streamlined hackathon operations by centralizing submission management, reducing manual coordination overhead and enabling real-time progress tracking for event organizers
 
 ## [Speech-to-Text AI Note Converter](https://github.com/BGill8/beavernotes-ai-notetaking)
 *HTML/CSS | JavaScript | Express.js | React.js | MongoDB*
