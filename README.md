@@ -59,4 +59,12 @@ In my free time, I love to play tennis, eat good food, and spend time with frien
 - Developed key features to display and transcribe user audio in real-time, utilizing AI-based processing to enhance accuracy and streamline note creation
 
 
+## [Automated Internship Tracker](https://github.com/StanLeeEng/GitHired)
+*Python | Flask | React.js | TypeScript | SQLite*
+
+- Constructed a full-stack job tracking app that automatically monitors the SimplifyJobs GitHub repository for new U.S software engineering postings and delivers an hourly HTML digest to subscribers via Gmail SMTP 
+- Developed a React and TypeScript frontend with real-time filtering and search by role, company, and location, enabling users to efficiently browse and save relevant internship listings served from a Flask REST API  
+
+
+
 
